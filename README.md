@@ -10,6 +10,11 @@ https://github.com/airbnb/enzyme/issues/1002
 
 "I'd generally recommend using only shallow as much as possible, and only making assertions on which components your thing renders - in other words, if A renders B which renders C, your A tests shouldn't know anything about C, and should only be asserting that A renders B with the right props. Your _B_ tests should be asserting things about C." **[ljharb](/ljharb) ** commented [on Jul 26, 2017](#issuecomment-318102035)
 
+# Router
+https://stackoverflow.com/questions/49964925/this-props-location-pathname-for-dynamic-urls-in-react
+When a route is matched, inside the component you can access props.match.params
+You can use matchPath to compare paths
+
 # Redux vs Graphql
 
 https://www.reddit.com/r/javascript/comments/9esh23/can_someone_explain_how_graphql_replaces_redux/
