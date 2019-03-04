@@ -1,3 +1,11 @@
+# JS
+careful: pop mutates
+```input.split("/").pop()```
+https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array
+
+```sortArray = [ ...dontMutateMe ].sort(...)```
+https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating
+
 # UI
 
 https://www.nngroup.com/articles/toggle-switch-guidelines/
