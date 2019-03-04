@@ -1,9 +1,10 @@
 # JS
-careful: pop mutates
+Remove last item from array:
+* careful: pop mutates
 ```input.split("/").pop()```
 https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array
 
-```sortArray = [ ...dontMutateMe ].sort(...)```
+* ```sortArray = [ ...dontMutateMe ].sort(...)```
 https://stackoverflow.com/questions/9009879/which-javascript-array-functions-are-mutating
 
 # UI
