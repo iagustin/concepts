@@ -1,3 +1,9 @@
+# SPA
+https://blog.pshrmn.com/entry/single-page-applications-and-the-server/
+
+# React router
+https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/
+
 # JS
 Remove last item from array:
 * careful: pop mutates
