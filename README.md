@@ -1,5 +1,7 @@
 # GIT COMMANDS
 git branch -d branchName
+git checkout -b branchName
+git checkout master
 
 # SPA
 https://blog.pshrmn.com/entry/how-single-page-applications-work/
