@@ -1,3 +1,6 @@
+# GIT COMMANDS
+git branch -d branchName
+
 # SPA
 https://blog.pshrmn.com/entry/how-single-page-applications-work/
 https://blog.pshrmn.com/entry/single-page-applications-and-the-server/
